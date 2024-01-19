@@ -1,7 +1,4 @@
 {
 "name": "romplex",
-"website": "<YOUR_WEBSITE>",
-"description": "pos validator",
-"logo": "example.com/logo.png",
-"twitter": "<YOUR_TWITTER>"
+"description": "pos validator"
 }
